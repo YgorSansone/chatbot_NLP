@@ -22,10 +22,30 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&link=https://github.com/YgorSansone/chatbot_NLP" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&link=https://github.com/YgorSansone/chatbot_NLP" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&link=https://github.com/YgorSansone/chatbot_NLP" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&link=https://github.com/YgorSansone/chatbot_NLP" />
 </p>
+
 
 Chatbot com Processamento de linguagem natural (NLP).
 Divido a string em tokens e procuro no meu banco as perguntas que possuem o maior numero de tokens iguais a do meu input.
+
+
+## Layout
+Telas
+
+<p align="center">
+  <img alt="Happy" src="./telas_print/chatbot.png" width="80%">
+</p>
+<p align="center">
+  <img alt="Happy" src="./telas_print/login.png" width="30%">
+  <img alt="Happy" src="./telas_print/lista.png" width="30%">
+  <img alt="Happy" src="./telas_print/cadastrar.png" width="30%">
+</p>
+<p align="center">
+  <img alt="Happy" src="./telas_print/deletar.png" width="30%">
+  <img alt="Happy" src="./telas_print/editar.png" width="30%">
+  <img alt="Happy" src="./telas_print/registrar.png" width="30%">
+</p>
 
 # chatbot_back
 
