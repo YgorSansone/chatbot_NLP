@@ -20,13 +20,13 @@ function AdminAuth(to,from,next){
       console.log(res)
       next();
     }).catch(err =>{
-      localStorage.clear();
+      // localStorage.clear();
       console.log(err.response)
       next("/");
     })
   }else{
     next("/");
-    localStorage.clear();
+    // localStorage.clear();
   }
 }
 Vue.use(VueRouter)
